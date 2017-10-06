@@ -84,7 +84,7 @@
 			}
 			
 			// Add the recipient email to a variable
-			$to	= "ug-it@univgraph.com";
+			$to	= "abc@example.com"; // insert your email address
 			
 			// Create a subject
 			$subject = "$name sent a message via your contact form";
